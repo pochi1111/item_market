@@ -1,0 +1,4 @@
+name: item_market
+version: '${project.version}'
+main: san.kuroinu.item_market.Item_market
+api-version: 1.19
